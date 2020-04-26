@@ -1,6 +1,7 @@
 org	100h	;004 00815
 
 mov	al,		0
+
 mov	bl,		0
 
 add	al,		0
